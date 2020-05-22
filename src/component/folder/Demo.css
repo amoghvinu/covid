@@ -1,0 +1,58 @@
+:root{
+    --mainBlue: blue;
+    --lightBlue: lightblue;
+    --mainwhite:white;
+    --mainDark:purple;
+    --mainYellow:yellow;
+
+}
+body{
+    font-family: "Oswald", sans-serif !important;
+    background:lightpink !important;
+    color: var(--mainDark) !important;
+    
+}
+.text-title{
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 0.3rem;
+    text-transform: uppercase;
+}
+.text-blue{
+    color: var(--mainBlue);
+}
+.text-bright{
+    color: var(--lightBlue);
+}
+.title{
+    color:black;
+}
+.fa{
+    color:#e9e914;
+}
+.navbar{
+    background-color: burlywood;
+}
+.navbar-nav li{
+    color: white !important;
+    font-size: 25px;
+    }
+    .fas{
+        color:red;
+    }
+    
+    .Recovered{
+        border-bottom: lightskyblue;
+    }
+    .card1{
+        margin: 0 2% !important;
+    }
+    h1{
+        color:"white";
+    }
+    .flex{
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .fad{
+        color: lightslategrey;
+    }
